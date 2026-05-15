@@ -142,8 +142,9 @@ plt.show()
 - Plot of the clock signal (sampling clock with increased frequency).
 - Plot of the PCM modulated signal (quantized signal).
 - Plot of the demodulated signal (signal without demodulation).
-
+## PCM
 ![image](https://github.com/user-attachments/assets/a7db0ef1-eaa4-4895-b733-28362ab6b243)
+## DM
 <img width="1203" height="590" alt="image" src="https://github.com/user-attachments/assets/f82c1114-2a3e-4ff7-b4fa-46668ec247cc" />
 
 
